@@ -1,16 +1,5 @@
 CONSTRUÇÃO DE DASHBOARD DE MULTAS E COVID UTILIZANDO TABLEAU / PYTHON / POWER BI
 
-DESAFIO:
-Crie um dashboard dos dados de multas e Covid (bases de dados disponibilizadas), no qual contenha as seguintes visões:
-
-- Visão acumulada por período. (multas e Covid)
-- Visão comparativa do período anterior. (multas e Covid)
-- Classificação por ranking do maior para o menor por tipo de multa e estado.
-- Classificação por ranking do maior para o menor por quantidade de mortes por Cidade/Estado.
-
-O Dashboard pode ser criado em PowerBI ou LookerStudio (antigo DataStudio), e podem ser usadas ferramentas para o ETL (Python, Pentaho, Tableau). Deve ser usado o modelo dimensional (star schema).
-
-RESOLUÇÃO:
 Os passos com as telas podem ser encontrados no arquivo "Passos para a Execução do Desafio - Rodrigo Binhara.pdf"
 
 Ao entender o que o desafio solicitou, busquei construir os entregáveis buscando o diferencial de fazer o ETL fora do Power BI, usando para tal a ferramenta Tableau, mas posteriormente tive que usar o Python para completar a fase de transformação dos dados e por fim, utilizar como front-end o Power BI.
