@@ -3,6 +3,8 @@ Projetos de business intelligence, entre outros.
 
 PASSOS PARA EXECUÇÃO DO DESAFIO
 
+os detalhes com as telas podem ser encontrados no arquivo "Passos para a Execução do Desafio - Rodrigo Binhara.pdf"
+
 Prezados senhores,
 
 Desde já gostaria de agradecer o desafio enviado e gostaria de descrever aqui os passos da realização.
