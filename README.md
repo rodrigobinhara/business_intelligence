@@ -1,4 +1,4 @@
-CONSTRUÇÃO DE DASHBOAR DE MULTAS E COVID UTILIZANDO TABLEAU / PYTHON / POWER BI
+CONSTRUÇÃO DE DASHBOARD DE MULTAS E COVID UTILIZANDO TABLEAU / PYTHON / POWER BI
 
 Os passos com as telas podem ser encontrados no arquivo "Passos para a Execução do Desafio - Rodrigo Binhara.pdf"
 
