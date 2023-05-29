@@ -1,9 +1,6 @@
-# business_intelligence
-Projetos de business intelligence, entre outros.
+CONSTRUÇÃO DE DASHBOAR DE MULTAS E COVID UTILIZANDO TABLEAU / PYTHON / POWER BI
 
-PASSOS PARA EXECUÇÃO DO DESAFIO
-
-Os pasoss com as telas podem ser encontrados no arquivo "Passos para a Execução do Desafio - Rodrigo Binhara.pdf"
+Os passos com as telas podem ser encontrados no arquivo "Passos para a Execução do Desafio - Rodrigo Binhara.pdf"
 
 Prezados senhores,
 
