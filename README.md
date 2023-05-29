@@ -32,7 +32,7 @@ Aqui gerei um arquivo .xlsx com o campo “city” totalmente preenchido, as pal
 
 FRONT-END POWER BI: (arquivo: Desafio - Rodrigo Binhara.pbix)
 No Power BI, optei por modelar uma tabela de Calendário aqui pois eu já tinha um outro arquivo com a tabela pronta, assim foi tranquilo linkar os dados.
-Como o Desafio pede apenas 01 dashboard, procurei montar um tema estililizado da Builders e aninhar todos os objetos em um aba só.
+Como o Desafio pede apenas 01 dashboard, procurei montar um tema estililizado da Companhia e aninhar todos os objetos em um aba só.
  
 
 
